@@ -14,14 +14,16 @@ Spelled tae kwon do or taekwon-do, is a Korean martial art involving punching an
 
 *Poomsae Dobok for female*
 
-### There are 2 categories of Taekwondo during competitions, there are Poomsae and Kyorugi.
+**There are 2 categories of Taekwondo during competitions, there are Poomsae and Kyorugi.**
 
-Poomsae is a high-performance competitive Taekwondo discipline.
 
-Kyorugi is aimed at making practitioners apply energy of attack and defense obtained through Poomsae training at an actual fight.
 
 **Poomsae**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FOS0cXB8vZ8?si=bAxyKCR4Edjg5lql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Poomsae is a high-performance competitive Taekwondo discipline.
+
 **Kyorugi**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWVP44ejpzY?si=FpqckFbezjS3eIg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Kyorugi is aimed at making practitioners apply energy of attack and defense obtained through Poomsae training at an actual fight.
