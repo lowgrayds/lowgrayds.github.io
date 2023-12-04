@@ -20,6 +20,8 @@ Poomsae is a high-performance competitive Taekwondo discipline.
 
 Kyorugi is aimed at making practitioners apply energy of attack and defense obtained through Poomsae training at an actual fight.
 
-[Koryo Poomsae](<iframe width="560" height="315" src="https://www.youtube.com/embed/FOS0cXB8vZ8?si=bAxyKCR4Edjg5lql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+**Poomsae**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOS0cXB8vZ8?si=bAxyKCR4Edjg5lql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Kyorugi](<iframe width="560" height="315" src="https://www.youtube.com/embed/EWVP44ejpzY?si=FpqckFbezjS3eIg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+**Kyorugi**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWVP44ejpzY?si=FpqckFbezjS3eIg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
